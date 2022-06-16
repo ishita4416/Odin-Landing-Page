@@ -48,7 +48,7 @@ ul{
 
 .container-top{
     display: flex;
-    gap: 280px;
+    gap: 40px;
 }
 
 .container-top img{
@@ -95,6 +95,6 @@ ul{
 .awesome-text{
     display: flex;
     flex-direction: column;
-    flex-basis: 36%;
+    flex-basis: 60%;
 }
 
