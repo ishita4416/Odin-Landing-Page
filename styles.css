@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+.header{
+    display: flex;
+    color: #F9FAF8;
+}
+
+a{
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.hero, .footer{
+    background-color: #1F2937;
+}
+
+.header h4{
+    font-size: 24px;
+    font-weight: 2000;
+}
