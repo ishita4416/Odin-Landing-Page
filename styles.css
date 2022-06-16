@@ -140,4 +140,33 @@ ul{
     margin: 0;
     color: rgb(77, 74, 74);
     font-size: 18px;
+    text-align: center;
+}
+
+
+/* Quote */
+
+.quote{
+    background-color: #E5E7EB;
+    padding: 120px;
+}
+
+.quote-text{
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    padding: 0 400px;
+    margin-bottom: 0;
+    font-weight: 200;
+}
+
+.said-by{
+    text-align: right;
+    margin-right: 450px;
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 900;
+    color: #1F2937;
 }
